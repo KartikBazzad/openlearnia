@@ -1,9 +1,8 @@
 ---
 title: How to create a blog website using Front Matter
 description: ""
-date: 2024-01-23T17:20:06.938Z
+date: 2024-01-23T17:36:25.137Z
 preview: /blog-placeholder-about.jpg
-draft: true
 tags:
     - Astro
     - Front Matter CMS
