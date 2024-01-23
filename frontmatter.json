@@ -30,7 +30,7 @@
       },
       {
         "title": "Publishing date",
-        "name": "pubDate",
+        "name": "date",
         "type": "datetime",
         "default": "{{now}}",
         "isPublishDate": true
